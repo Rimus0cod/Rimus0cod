@@ -13,4 +13,4 @@
 - Full Stack Developer
 - Python maybe 😃
 
-[![spotify-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=43u1p1z0j1p17v4n37y0m8z59&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=d4ojrjzmujwmvclliepacpbrv&redirect=true)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6xm9Rr3HCnr94wu1fasUeY?utm_source=generator&si=a7c705ca3ac548f3" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

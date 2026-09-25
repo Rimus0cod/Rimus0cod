@@ -38,7 +38,7 @@ Currently experimenting with biologically-inspired architectures and reinforceme
 
 ## 🧬 Featured Project
 
-### 🪰 FlyBrain / 86(war)
+### 🪰 FlyBrain
 
 > Exploring whether a connectome-inspired neural architecture can learn complex behavior.
 
@@ -51,8 +51,8 @@ The project experiments with:
 * 📊 diagnostics and baseline comparisons
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Rimus0cod/FlyBrain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 

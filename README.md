@@ -2,11 +2,15 @@
 
 # Rimus0cod
 
-### Machine Learning · AI · Systems · Linux
+### 機械学習 · AI · Linux · 開発
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+ML+systems+from+scratch;Experimenting+with+neural+architectures;Python+%7C+PyTorch+%7C+Linux;Learning+through+experiments+%F0%9F%A7%A0" alt="Typing SVG" />
+<sub>静かに作る。深く考える。実験する。</sub>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+intelligent+systems;Learning+through+experiments;Python+%7C+PyTorch+%7C+Linux;One+idea+at+a+time" alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://github.com/Rimus0cod">
   <img src="https://komarev.com/ghpvc/?username=Rimus0cod&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -16,44 +20,44 @@
 
 ---
 
-## 🧠 About
+## こんにちは
 
-I'm a developer focused on **Machine Learning, AI, neural networks and systems**.
+> **作ることは、考えること。**
 
-I enjoy building things from scratch, running controlled experiments, measuring results, and using the evidence to decide what to change next.
+I'm a developer interested in **Machine Learning, AI, neural networks and Linux**.
 
-### Areas I work with
+I prefer a quiet, experimental approach: build something, observe what happens, understand the result, and improve it.
 
-- 🧠 Neural network architectures
-- 🎯 Reinforcement learning
-- 🧬 Biologically-inspired computation
-- 🔬 Experiments, diagnostics and baselines
-- 🐍 Python + PyTorch
-- 🐧 Linux systems
+```text
+        idea
+         ↓
+      build
+         ↓
+     experiment
+         ↓
+      observe
+         ↓
+       learn
+         ↺
+```
 
 ---
 
-## ⚙️ Tech Stack
+## 技術
 
 <div align="center">
 
-### Languages
-
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash" />
 
-### ML / Data
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=pytorch,linux,arch,git,github,docker" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-### Systems & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker" />
 
 </div>
 
@@ -70,82 +74,35 @@ I enjoy building things from scratch, running controlled experiments, measuring 
 
 ---
 
-## 🚀 Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## プロジェクト
 
 ### 🪰 FlyBrain
 
-Experimental research into **biologically-inspired neural architectures, recurrent dynamics and learned behavior**.
+Biologically-inspired neural architectures, recurrent dynamics and learned behavior.
 
-<a href="https://github.com/Rimus0cod/FlyBrain">
-  <img src="./profile/flybrain.svg" alt="FlyBrain repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
+[**View repository →**](https://github.com/Rimus0cod/FlyBrain)
 
 ### ⚖️ AI_balancer
 
-An experimental project focused on **AI-driven balancing and control**.
+An experimental project around AI-driven balancing and control.
 
-<a href="https://github.com/Rimus0cod/AI_balancer">
-  <img src="./profile/ai-balancer.svg" alt="AI_balancer repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[**View repository →**](https://github.com/Rimus0cod/AI_balancer)
 
 ### 🤖 control
 
-A practical Python project for **automation, control and service-style workflows**.
+Python automation, control and service-oriented workflows.
 
-<a href="https://github.com/Rimus0cod/control">
-  <img src="./profile/control.svg" alt="control repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
+[**View repository →**](https://github.com/Rimus0cod/control)
 
 ### 🔎 parser
 
-A separate project exploring **parsing and programmatic data processing**.
+Parsing and programmatic data processing experiments.
 
-<a href="https://github.com/Rimus0cod/parser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=parser&theme=tokyonight&hide_border=true" alt="parser repository"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-> These projects cover different parts of my work — from ML research and experiments to practical software and tooling.
+[**View repository →**](https://github.com/Rimus0cod/parser)
 
 ---
 
-## 🔬 Current Focus
-
-<div align="center">
-
-| Area | Focus |
-|:---:|:---|
-| 🧠 | Neural architectures |
-| 🎯 | Reinforcement learning |
-| 🧬 | Biologically-inspired AI |
-| 🔄 | Recurrent dynamics |
-| 🧪 | Experimental methodology |
-| 📊 | Diagnostics & baselines |
-| 🐧 | Linux & systems |
-
-</div>
-
----
-
-## 🐍 Contribution Activity
+## 🐍 Contribution
 
 <p align="center">
   <picture>
@@ -157,17 +114,13 @@ A separate project exploring **parsing and programmatic data processing**.
 
 ---
 
-## 🧩 Philosophy
-
 <div align="center">
 
-**Build → Measure → Diagnose → Experiment → Repeat**
+### 静かに、少しずつ。
 
-</div>
+<sub>Quietly. One step at a time.</sub>
 
-<div align="center">
-
-### Building. Experimenting. Learning.
+<br/><br/>
 
 <a href="https://github.com/Rimus0cod">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>

@@ -109,17 +109,7 @@ A practical Python project for **automation, control and service-style workflows
 </a>
 
 </td>
-<td width="50%" valign="top">
 
-### 🔎 parser
-
-A separate project exploring **parsing and programmatic data processing**.
-
-<a href="https://github.com/Rimus0cod/parser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=parser&theme=tokyonight&hide_border=true" alt="parser repository"/>
-</a>
-
-</td>
 </tr>
 </table>
 

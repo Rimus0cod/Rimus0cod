@@ -52,7 +52,7 @@ The project experiments with:
 
 <p align="center">
   <a href="https://github.com/Rimus0cod/FlyBrain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=FlyBrai&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=FlyBrain&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 

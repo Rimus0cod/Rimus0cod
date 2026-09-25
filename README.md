@@ -13,4 +13,4 @@
 - Full Stack Developer
 - Python maybe 😃
 
-<iframe style="border-radius:12px" src="https://spotify.com" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify Playlist](https://vercel.app)](https://spotify.com)

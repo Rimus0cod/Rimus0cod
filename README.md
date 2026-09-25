@@ -13,4 +13,5 @@
 - Full Stack Developer
 - Python maybe 😃
 
-[![Spotify via Last.fm](https://github-readme-lastfm.vercel.app/api?username=rimus_diffa&theme=dark&bg_color=181818&shared_bg=true)](https://www.last.fm/user/Rimus_diffa)
+[![Spotify via Last.fm](https://lastfm-recently-played-readme.jeffreyca.workers.dev/api?username=rimus_diffa&theme=dark&bg_color=181818&shared_bg=true)](https://www.last.fm/user/rimus_diffa)
+

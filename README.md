@@ -13,7 +13,4 @@
 - Full Stack Developer
 - Python maybe 😃
 
-<a href="[https://spotify.com](https://open.spotify.com/playlist/6xm9Rr3HCnr94wu1fasUeY?si=9dcc40dd50794710)" target="_blank">
-  <img src="https://vercel.app" alt="Spotify Playlist" width="100%" style="border-radius:12px; max-width:500px;">
-</a>
-
+[![Spotify via Last.fm](https://github-readme-lastfm.vercel.app/api?username=Rimus_diffa&theme=dark&bg_color=181818&shared_bg=true)](https://www.last.fm/user/Rimus_diffa)

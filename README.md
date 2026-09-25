@@ -52,7 +52,7 @@ The project experiments with:
 
 <p align="center">
   <a href="https://github.com/Rimus0cod/FlyBrain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=FlyBrai&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -104,8 +104,8 @@ Machine Learning
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimus0codE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimus0cod&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -113,7 +113,7 @@ Machine Learning
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Rimus0cod/Rimus0cod/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -121,7 +121,7 @@ Machine Learning
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Rimus0cod">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

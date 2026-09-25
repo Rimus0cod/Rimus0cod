@@ -13,4 +13,7 @@
 - Full Stack Developer
 - Python maybe 😃
 
-[![Spotify Playlist](https://vercel.app)](https://spotify.com)
+<a href="[https://spotify.com](https://open.spotify.com/playlist/6xm9Rr3HCnr94wu1fasUeY?si=9dcc40dd50794710)" target="_blank">
+  <img src="https://vercel.app" alt="Spotify Playlist" width="100%" style="border-radius:12px; max-width:500px;">
+</a>
+

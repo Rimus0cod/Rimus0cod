@@ -2,9 +2,9 @@
 
 # Rimus0cod
 
-### Machine Learning · AI · Neural Networks · Linux
+### Machine Learning · AI · Systems · Linux
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+ML+systems+from+scratch;Experimenting+with+neural+architectures;PyTorch+%7C+Python+%7C+Linux;Biologically-inspired+AI+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+ML+systems+from+scratch;Experimenting+with+neural+architectures;Python+%7C+PyTorch+%7C+Linux;Learning+through+experiments+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <br/>
 
@@ -18,55 +18,18 @@
 
 ## 🧠 About
 
-I'm a developer focused on **Machine Learning, neural networks and intelligent systems**.
+I'm a developer focused on **Machine Learning, AI, neural networks and systems**.
 
-Right now, most of my experiments are centered around:
+I enjoy building things from scratch, running controlled experiments, measuring results, and using the evidence to decide what to change next.
 
-- 🧠 neural network architectures
-- 🎯 reinforcement learning
-- 🧬 biologically-inspired computation
-- 🔬 controlled experiments and diagnostics
+### Areas I work with
+
+- 🧠 Neural network architectures
+- 🎯 Reinforcement learning
+- 🧬 Biologically-inspired computation
+- 🔬 Experiments, diagnostics and baselines
 - 🐍 Python + PyTorch
 - 🐧 Linux systems
-
-I like building the system, testing the hypothesis, measuring the result, and then changing the architecture based on the evidence.
-
----
-
-## 🪰 Featured Project — FlyBrain
-
-<div align="center">
-
-<a href="https://github.com/Rimus0cod/FlyBrain">
-  <img src="./profile/flybrain.svg" alt="FlyBrain repository"/>
-</a>
-
-</div>
-
-**FlyBrain** is an experimental ML project exploring biologically-inspired neural architectures and learned behavior.
-
-The project currently explores:
-
-```text
-Environment
-    │
-    ▼
-Visual / state representation
-    │
-    ▼
-Recurrent neural dynamics
-    │
-    ▼
-Action policy
-    │
-    ▼
-Reinforcement learning
-    │
-    ▼
-Diagnostics → baselines → experiments
-```
-
-The goal is not just to make a model work, but to understand **why it works, where it fails, and what changes actually matter**.
 
 ---
 
@@ -78,7 +41,7 @@ The goal is not just to make a model work, but to understand **why it works, whe
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash" />
 
-### ML / AI
+### ML / Data
 
 <img src="https://skillicons.dev/icons?i=pytorch" />
 
@@ -96,6 +59,74 @@ The goal is not just to make a model work, but to understand **why it works, whe
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+<img src="./profile/stats.svg" height="180" alt="GitHub statistics"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪰 FlyBrain
+
+Experimental research into **biologically-inspired neural architectures, recurrent dynamics and learned behavior**.
+
+<a href="https://github.com/Rimus0cod/FlyBrain">
+  <img src="./profile/flybrain.svg" alt="FlyBrain repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ AI_balancer
+
+An experimental project focused on **AI-driven balancing and control**.
+
+<a href="https://github.com/Rimus0cod/AI_balancer">
+  <img src="./profile/ai-balancer.svg" alt="AI_balancer repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 control
+
+A practical Python project for **automation, control and service-style workflows**.
+
+<a href="https://github.com/Rimus0cod/control">
+  <img src="./profile/control.svg" alt="control repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 parser
+
+A separate project exploring **parsing and programmatic data processing**.
+
+<a href="https://github.com/Rimus0cod/parser">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=parser&theme=tokyonight&hide_border=true" alt="parser repository"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> These projects cover different parts of my work — from ML research and experiments to practical software and tooling.
+
+---
+
 ## 🔬 Current Focus
 
 <div align="center">
@@ -108,17 +139,7 @@ The goal is not just to make a model work, but to understand **why it works, whe
 | 🔄 | Recurrent dynamics |
 | 🧪 | Experimental methodology |
 | 📊 | Diagnostics & baselines |
-
-</div>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="./profile/stats.svg" height="180" alt="GitHub statistics"/>
-<img src="./profile/top-langs.svg" height="180" alt="Top languages"/>
+| 🐧 | Linux & systems |
 
 </div>
 
@@ -136,26 +157,13 @@ The goal is not just to make a model work, but to understand **why it works, whe
 
 ---
 
-## 🚀 Other Projects
+## 🧩 Philosophy
 
 <div align="center">
 
-<a href="https://github.com/Rimus0cod/control">
-  <img src="./profile/control.svg" alt="control"/>
-</a>
-<a href="https://github.com/Rimus0cod/AI_balancer">
-  <img src="./profile/ai-balancer.svg" alt="AI_balancer"/>
-</a>
+**Build → Measure → Diagnose → Experiment → Repeat**
 
 </div>
-
----
-
-## 🧩 Philosophy
-
-```text
-Build  →  Measure  →  Diagnose  →  Experiment  →  Repeat
-```
 
 <div align="center">
 

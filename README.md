@@ -38,7 +38,7 @@ I like building the system, testing the hypothesis, measuring the result, and th
 <div align="center">
 
 <a href="https://github.com/Rimus0cod/FlyBrain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=FlyBrain&theme=tokyonight&hide_border=true&description_lines_count=2" alt="FlyBrain repository"/>
+  <img src="./profile/flybrain.svg" alt="FlyBrain repository"/>
 </a>
 
 </div>
@@ -117,8 +117,8 @@ The goal is not just to make a model work, but to understand **why it works, whe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rimus0cod&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimus0cod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub statistics"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top languages"/>
 
 </div>
 
@@ -141,10 +141,10 @@ The goal is not just to make a model work, but to understand **why it works, whe
 <div align="center">
 
 <a href="https://github.com/Rimus0cod/control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=control&theme=tokyonight&hide_border=true" alt="control"/>
+  <img src="./profile/control.svg" alt="control"/>
 </a>
 <a href="https://github.com/Rimus0cod/AI_balancer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rimus0cod&repo=AI_balancer&theme=tokyonight&hide_border=true" alt="AI_balancer"/>
+  <img src="./profile/ai-balancer.svg" alt="AI_balancer"/>
 </a>
 
 </div>
